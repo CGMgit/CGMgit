@@ -1,5 +1,5 @@
 # 🍎 Rhapsody · 苹果世界
-> 🌐 English version: [README.en.md](./README.en.md)
+> 🌐 English version: [README.EN.md](./README.EN.md)
 
 
                                                             欢迎来到帅气大王子的苹果世界！
