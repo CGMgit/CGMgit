@@ -1,4 +1,6 @@
 # 🍎 Rhapsody · The Apple World
+> 🇨🇳 中文版请见：[README.md](./README.md)
+
 
 　　　　　　　　　　　　Welcome to the world of the Handsome Prince! 👑  
 
@@ -61,5 +63,6 @@ Creator of the **Rhapsody Ecosystem** — an integration of scientific thinking,
 ### 📫 Contact
 
 - 📧 Email: **shuaiqidawangzi@mail.ustc.edu.cn**
+
 
 🪐 *“The world is intelligible by reason, lovable by emotion, and thinkable by philosophy.”*
